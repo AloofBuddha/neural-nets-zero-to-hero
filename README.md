@@ -7,6 +7,7 @@ Working off [this playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLA
 
 For reference:
     - [micrograd](https://github.com/karpathy/micrograd)
+    - [Completed notebooks pt 1](https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd)
 
 ### Current
 - [ ] [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
